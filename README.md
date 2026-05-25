@@ -7,10 +7,9 @@ Este proyecto es una página web interactiva desarrollada para el **Desafío Web
 ---
 
 ## 👥 Integrantes / Autor
-* **Estudiante:** [Tu Nombre y Apellido]
-* **Curso / Grado:** [Tu Curso o Paralelo]
-* **Institución:** [Nombre de tu Colegio o Universidad]
-
+* **Estudiante:** jOSE DANIEL RODRIGUEZ CONDORI
+* **Curso / Grado:** PROGRAMACION WEB
+* **Institución:** UMSA
 ---
 
 ## 📝 Descripción del Problema Real
