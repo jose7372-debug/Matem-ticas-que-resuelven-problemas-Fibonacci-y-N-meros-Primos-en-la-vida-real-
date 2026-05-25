@@ -2,7 +2,8 @@
 
 Este proyecto es una página web interactiva desarrollada para el Desafío Web de Matemáticas y Programación. La aplicación aplica la secuencia matemática de Fibonacci para resolver un problema del mundo real: la planificación y optimización del ahorro económico personal mes a mes.
 
-* **Link de la página publicada:** Link de la página publicada:** https://TU_URL_COPIADA/desafio-fibonacci-primos/
+* **Link de la página publicada:** Link de la página publicada:** https://https://github.io
+/desafio-fibonacci-primos/
 
 ## Estructura del Proyecto
 ```json
